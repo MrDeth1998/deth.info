@@ -1,1 +1,1 @@
-# info
+# deth.info
